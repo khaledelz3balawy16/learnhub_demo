@@ -1,0 +1,41 @@
+{
+  "_source": "Provisional (docs/NEEDS-USER.md #2): real module titles and standard from LMS_v2; weeks follow LMS_v2's standard week until the real structure is exported.",
+  "key": "MM",
+  "slug": "marketing-manager-level-6",
+  "title": "Marketing Manager (Level 6)",
+  "subtitle": "Lead marketing strategy, customer journeys and commercial decisions.",
+  "level": "advanced",
+  "standard": {
+    "code": "ST0612",
+    "version": "1.0",
+    "title": "Marketing manager",
+    "level": 6
+  },
+  "otj": {
+    "mode": "hours_per_week",
+    "value": 6
+  },
+  "intake_months": [
+    2,
+    6,
+    10
+  ],
+  "modules": [
+    {
+      "title": "Marketing Strategy & Planning",
+      "weeks": 4
+    },
+    {
+      "title": "Customer Journey Optimisation",
+      "weeks": 4
+    },
+    {
+      "title": "Commercial Intelligence",
+      "weeks": 4
+    },
+    {
+      "title": "AI In Marketing",
+      "weeks": 4
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+ "_source": "safeguarding-questions.json from the client (2026-11-25): six sections of ten questions, every answer on a 0 to 3 scale.",
+ "options": [
+  {
+   "label": "Never / No",
+   "value": 0
+  },
+  {
+   "label": "Sometimes / Unsure",
+   "value": 1
+  },
+  {
+   "label": "Often",
+   "value": 2
+  },
+  {
+   "label": "Very often / Yes",
+   "value": 3
+  }
+ ],
+ "default_threshold": 15,
+ "sections": [
+  {
+   "key": "technology_anxiety_digital_access",
+   "title": "Technology Anxiety and Digital Access",
+   "questions": [
+    {
+     "key": "TECH_01",
+     "sub_section": "joining_online_sessions",
+     "text": "I worry that I will not be able to join online sessions successfully."
+    },
+    {
+     "key": "TECH_02",
+     "sub_section": "camera_microphone",
+     "text": "I feel anxious or unsure when using my camera, microphone, speakers or meeting settings."
+    },
+    {
+     "key": "TECH_03",
+     "sub_section": "online_participation_tools",
+     "text": "I avoid using chat, reactions, polls, breakout rooms or shared screens because I am unsure how they work."
+    },
+    {
+     "key": "TECH_04",
+     "sub_section": "lms_confidence",
+     "text": "I find it difficult to log in to the LMS, find resources, access recordings or complete online activities."
+    },
+    {
+     "key": "TECH_05",
+     "sub_section": "assignment_upload",
+     "text": "I feel anxious when uploading assignments, evidence, files or forms online."
+    },
+    {
+     "key": "TECH_06",
+     "sub_section": "file_handling",
+     "text": "I find it difficult to download, edit, save, rename or upload documents correctly."
+    },
+    {
+     "key": "TECH_07",
+     "sub_section": "fear_of_mistakes",
+     "text": "I worry that I will click the wrong button, lose my work, submit the wrong file or break something online."
+    },
+    {
+     "key": "TECH_08",
+     "sub_section": "passwords_systems",
+     "text": "I feel overwhelmed by having to use multiple systems, passwords, links or apps."
+    },
+    {
+     "key": "TECH_09",
+     "sub_section": "device_internet_access",
+     "text": "I do not always have reliable access to a suitable device, internet connection or quiet space for online learning."
+    },
+    {
+     "key": "TECH_10",
+     "sub_section": "learning_impact",
+     "text": "Technology issues or technology anxiety affect my attendance, participation or assignment submission."
+    }
+   ]
+  },
+  {
+   "key": "visual_hearing_accessibility",
+   "title": "Visual and Hearing Accessibility",
+   "questions": [
+    {
+     "key": "VH_01",
+     "sub_section": "visual_clarity",
+     "text": "I find it difficult to read small text on slides, PDFs, websites, forms or the LMS."
+    },
+    {
+     "key": "VH_02",
+     "sub_section": "screen_visibility",
+     "text": "I find it difficult to see shared screens, diagrams, charts or visual content during online sessions."
+    },
+    {
+     "key": "VH_03",
+     "sub_section": "screen_fatigue",
+     "text": "I experience eye strain, headaches, blurred vision or tiredness when using screens for learning."
+    },
+    {
+     "key": "VH_04",
+     "sub_section": "visual_adjustments",
+     "text": "I would benefit from larger text, zoomed documents, high contrast, clear layouts or accessible PDFs."
+    },
+    {
+     "key": "VH_05",
+     "sub_section": "screen_reader_magnification",
+     "text": "I use, or may benefit from, screen reader, magnification, text-to-speech or other visual accessibility tools."
+    },
+    {
+     "key": "VH_06",
+     "sub_section": "hearing_clarity",
+     "text": "I find it difficult to hear tutors, peers or employers clearly during online sessions."
+    },
+    {
+     "key": "VH_07",
+     "sub_section": "audio_quality",
+     "text": "Background noise, unclear sound, poor microphones or several people speaking at once make sessions difficult."
+    },
+    {
+     "key": "VH_08",
+     "sub_section": "captions_transcripts",
+     "text": "I would benefit from captions, transcripts, recordings or written summaries of sessions."
+    },
+    {
+     "key": "VH_09",
+     "sub_section": "assistive_hearing_support",
+     "text": "I use, or may benefit from, hearing aids, assistive listening tools or hearing-related support."
+    },
+    {
+     "key": "VH_10",
+     "sub_section": "learning_impact",
+     "text": "Vision or hearing difficulties affect my attendance, participation, understanding or assignment progress."
+    }
+   ]
+  },
+  {
+   "key": "dyslexia",
+   "title": "Dyslexia Indicators",
+   "questions": [
+    {
+     "key": "DYS_01",
+     "sub_section": "reading_speed",
+     "text": "I read more slowly than other people when reading learning materials, slides, forms or instructions."
+    },
+    {
+     "key": "DYS_02",
+     "sub_section": "reading_fatigue",
+     "text": "I feel tired, lose focus, or get headaches when reading for a long time."
+    },
+    {
+     "key": "DYS_03",
+     "sub_section": "reading_comprehension",
+     "text": "I need to read the same information more than once before I understand it."
+    },
+    {
+     "key": "DYS_04",
+     "sub_section": "reading_accuracy",
+     "text": "I lose my place, skip lines, or misread words when reading longer text."
+    },
+    {
+     "key": "DYS_05",
+     "sub_section": "spelling",
+     "text": "I make spelling mistakes, even with words I use regularly."
+    },
+    {
+     "key": "DYS_06",
+     "sub_section": "writing_clarity",
+     "text": "I know what I want to say, but I find it difficult to write it clearly."
+    },
+    {
+     "key": "DYS_07",
+     "sub_section": "written_instructions",
+     "text": "I need extra time to understand written instructions, assignment briefs or forms."
+    },
+    {
+     "key": "DYS_08",
+     "sub_section": "copying_accuracy",
+     "text": "I make mistakes when copying information from slides, screens, documents or notes."
+    },
+    {
+     "key": "DYS_09",
+     "sub_section": "memory_sequencing",
+     "text": "I find it difficult to remember or follow instructions with several steps."
+    },
+    {
+     "key": "DYS_10",
+     "sub_section": "previous_support",
+     "text": "I have previously received support for reading, writing, spelling, processing speed or dyslexia."
+    }
+   ]
+  },
+  {
+   "key": "adhd",
+   "title": "ADHD Indicators",
+   "questions": [
+    {
+     "key": "ADHD_01",
+     "sub_section": "attention_focus",
+     "text": "I find it difficult to stay focused during online sessions, lessons, meetings or long explanations."
+    },
+    {
+     "key": "ADHD_02",
+     "sub_section": "attention_focus",
+     "text": "I miss important information because my attention drifts, even when I am trying to listen."
+    },
+    {
+     "key": "ADHD_03",
+     "sub_section": "distraction",
+     "text": "I am easily distracted by notifications, noise, people, emails or unrelated thoughts."
+    },
+    {
+     "key": "ADHD_04",
+     "sub_section": "organisation",
+     "text": "I find it difficult to organise tasks, notes, files, learning materials or priorities."
+    },
+    {
+     "key": "ADHD_05",
+     "sub_section": "planning_deadlines",
+     "text": "I struggle to plan my time or keep track of deadlines."
+    },
+    {
+     "key": "ADHD_06",
+     "sub_section": "forgetfulness",
+     "text": "I forget appointments, commitments, tasks, passwords or things I need for learning."
+    },
+    {
+     "key": "ADHD_07",
+     "sub_section": "starting_tasks",
+     "text": "I delay starting assignments or tasks that require sustained thinking."
+    },
+    {
+     "key": "ADHD_08",
+     "sub_section": "finishing_tasks",
+     "text": "I start tasks but move on to something else before finishing them."
+    },
+    {
+     "key": "ADHD_09",
+     "sub_section": "restlessness_impulsivity",
+     "text": "I feel restless, fidgety, impatient, or find it difficult to sit still or wait my turn."
+    },
+    {
+     "key": "ADHD_10",
+     "sub_section": "learning_work_impact",
+     "text": "These attention, organisation or restlessness difficulties affect my learning, work or assignment progress."
+    }
+   ]
+  },
+  {
+   "key": "social_anxiety",
+   "title": "Social Anxiety and Communication Confidence",
+   "questions": [
+    {
+     "key": "SOC_01",
+     "sub_section": "presentation_anxiety",
+     "text": "I feel anxious before giving a presentation or speaking in front of others."
+    },
+    {
+     "key": "SOC_02",
+     "sub_section": "presentation_performance",
+     "text": "I worry that I will forget my words, make mistakes, or not explain myself clearly during presentations."
+    },
+    {
+     "key": "SOC_03",
+     "sub_section": "online_speaking",
+     "text": "I feel anxious when asked to speak on microphone during online sessions."
+    },
+    {
+     "key": "SOC_04",
+     "sub_section": "camera_confidence",
+     "text": "I feel uncomfortable or anxious when asked to turn my camera on during online sessions."
+    },
+    {
+     "key": "SOC_05",
+     "sub_section": "participation_avoidance",
+     "text": "I avoid answering questions or contributing in live sessions, even when I know the answer."
+    },
+    {
+     "key": "SOC_06",
+     "sub_section": "group_discussion",
+     "text": "I feel anxious in breakout rooms, group discussions or small group activities."
+    },
+    {
+     "key": "SOC_07",
+     "sub_section": "fear_of_judgement",
+     "text": "I worry that other learners, tutors or employers will judge me negatively when I speak."
+    },
+    {
+     "key": "SOC_08",
+     "sub_section": "asking_for_help",
+     "text": "I avoid asking questions because I do not want to appear confused or draw attention to myself."
+    },
+    {
+     "key": "SOC_09",
+     "sub_section": "verbal_assessment",
+     "text": "I feel anxious about professional discussions, interviews, verbal assessments or EPA-style conversations."
+    },
+    {
+     "key": "SOC_10",
+     "sub_section": "learning_impact",
+     "text": "Anxiety about speaking or interacting affects my participation, confidence or ability to show what I know."
+    }
+   ]
+  },
+  {
+   "key": "mood_learning_capacity",
+   "title": "Mood, Motivation and Learning Capacity",
+   "questions": [
+    {
+     "key": "MOOD_01",
+     "sub_section": "low_mood",
+     "text": "I have felt low, down, or emotionally unsettled in a way that affects my learning."
+    },
+    {
+     "key": "MOOD_02",
+     "sub_section": "hope_outlook",
+     "text": "I have felt discouraged or less hopeful about my progress or future."
+    },
+    {
+     "key": "MOOD_03",
+     "sub_section": "loss_of_interest",
+     "text": "I have lost interest or motivation in learning, work, or activities I usually care about."
+    },
+    {
+     "key": "MOOD_04",
+     "sub_section": "energy_fatigue",
+     "text": "I feel tired, drained, or low in energy during learning or work."
+    },
+    {
+     "key": "MOOD_05",
+     "sub_section": "sleep_impact",
+     "text": "My sleep quality or sleep routine affects my ability to learn or complete tasks."
+    },
+    {
+     "key": "MOOD_06",
+     "sub_section": "concentration",
+     "text": "My mood, stress, or energy levels make it difficult to concentrate."
+    },
+    {
+     "key": "MOOD_07",
+     "sub_section": "attendance_capacity",
+     "text": "My wellbeing has made it difficult to attend live sessions or arrive prepared."
+    },
+    {
+     "key": "MOOD_08",
+     "sub_section": "assignment_capacity",
+     "text": "My wellbeing has made it difficult to start, continue, or complete assignments."
+    },
+    {
+     "key": "MOOD_09",
+     "sub_section": "feeling_overwhelmed",
+     "text": "I feel overwhelmed by learning, work, or personal responsibilities."
+    },
+    {
+     "key": "MOOD_10",
+     "sub_section": "support_need",
+     "text": "I would benefit from wellbeing support, extra check-ins, or a temporary learning support plan."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+  "_source": "Provisional (docs/NEEDS-USER.md #2): real module titles and standard from LMS_v2; weeks follow LMS_v2's standard week until the real structure is exported.",
+  "key": "PCP",
+  "slug": "project-controls-professional-level-6",
+  "title": "Project Controls Professional (Level 6)",
+  "subtitle": "Plan, schedule and control complex projects, and report on them with confidence.",
+  "level": "advanced",
+  "standard": {
+    "code": "ST0845",
+    "version": "1.1",
+    "title": "Project controls professional",
+    "level": 6
+  },
+  "otj": {
+    "mode": "hours_per_week",
+    "value": 6
+  },
+  "intake_months": [
+    2,
+    6,
+    10
+  ],
+  "modules": [
+    {
+      "title": "Project Management Professional",
+      "weeks": 4
+    },
+    {
+      "title": "PMI-SP Scheduling Professional",
+      "weeks": 4
+    },
+    {
+      "title": "Risk Management",
+      "weeks": 4
+    },
+    {
+      "title": "Managing Successful Programmes: Project Controls for Transformational Change",
+      "weeks": 4
+    },
+    {
+      "title": "Stakeholder Management & Reporting",
+      "weeks": 4
+    },
+    {
+      "title": "Project Planning and Control / PMO",
+      "weeks": 4
+    }
+  ]
+}

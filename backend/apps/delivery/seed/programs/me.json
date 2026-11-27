@@ -1,0 +1,37 @@
+{
+  "_source": "Provisional (docs/NEEDS-USER.md #2): real module titles and standard from LMS_v2; weeks follow LMS_v2's standard week until the real structure is exported.",
+  "key": "ME",
+  "slug": "marketing-executive-level-4",
+  "title": "Marketing Executive (Level 4)",
+  "subtitle": "Plan and run campaigns across social media and marketing technology.",
+  "level": "intermediate",
+  "standard": {
+    "code": "ST0596",
+    "version": "1.0",
+    "title": "Marketing executive",
+    "level": 4
+  },
+  "otj": {
+    "mode": "hours_per_week",
+    "value": 6
+  },
+  "intake_months": [
+    2,
+    6,
+    10
+  ],
+  "modules": [
+    {
+      "title": "Marketing Impact and Planning",
+      "weeks": 4
+    },
+    {
+      "title": "Social Media",
+      "weeks": 4
+    },
+    {
+      "title": "Martech",
+      "weeks": 4
+    }
+  ]
+}
